@@ -1,7 +1,4 @@
-### Hi there 👋
-
- <h1 align="center">Hi 👋, I'm Ziirofan</h1>
-<h3 align="center">Full Stack developper, blockchain developper from France</h3>
+<img align="center" src="./github-header-image.png" alt="Ziirofan"/>
 
 - 🌱 I’m currently learning **Rust**
 
